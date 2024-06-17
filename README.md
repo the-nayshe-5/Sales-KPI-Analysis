@@ -19,4 +19,15 @@ This project:
   - Facilitates the evaluation of pricing and cost management strategies, helping to optimize revenue and profitability.
 
 ## How To Access The Project
+The dataset was obtained from Kaggle. The CSV file is attached herewith for your quick reference. <br>
+<br>
+1. Download the files as a zip folder. <br>
+2. After extracting the constituent files, upload the CSV "business.retailsales.csv" as table "product_sales" in an SQL environment. I worked with MySQL Workbench.
+3. Open the Data_Cleaning.sql file in the environment and run it.
+4. Upon its completion, open the EDA_product_sales.sql file for a detailed exploratory data analysis.
+5. Click on the link below for a quick insight using Tableau Dashboard for the other CSV file "business.retailsales2.csv".
 
+Tableau Dashboard Link : https://public.tableau.com/app/profile/naysah.sheikh/viz/SalesKPIDashboard_17171018177870/Dashboard1
+
+Hope you found the process insightful!
+Thank you! :)
